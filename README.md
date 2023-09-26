@@ -6,8 +6,10 @@
 
 ### Frontend
 [IndexDB](https://medium.com/@andrea.diblasix/indexeddb-hai-davvero-bisogno-di-un-database-remoto-8f651c326971)
+
 ### Shell
 [NuShell](https://www.nushell.sh/)
+[Shell Check](https://www.shellcheck.net/)
 
 ### CI/CD
 [Buddy Works](https://buddy.works/)
