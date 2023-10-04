@@ -16,3 +16,7 @@
 
 ### Guides
 [Free tools for dev](https://free-for.dev/#/)
+
+
+### Interviews
+[Lydia Hallie js questions](https://github.com/lydiahallie/javascript-questions)
