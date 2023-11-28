@@ -6,6 +6,8 @@
 
 ### Frontend
 [IndexDB](https://medium.com/@andrea.diblasix/indexeddb-hai-davvero-bisogno-di-un-database-remoto-8f651c326971)   
+#### Templates
+[Vite-React-Typescript-RTK](https://github.com/R35007/vite-react-typescript)
 
 ### Shell
 [NuShell](https://www.nushell.sh/)   
@@ -21,3 +23,4 @@
 ### Interviews
 [Lydia Hallie js questions](https://github.com/lydiahallie/javascript-questions)   
 [Nest.js Tutorials](https://wanago.io/)
+
