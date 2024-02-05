@@ -22,6 +22,7 @@
 
 ## Guides
 [Free tools for dev](https://free-for.dev/#/)   
+[Free stuff](https://freestuff.dev/)
 
 ## Tools
 [Choose License](https://choosealicense.com/)
