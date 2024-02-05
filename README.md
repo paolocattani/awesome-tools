@@ -1,6 +1,7 @@
 # awesome-tools
 
-
+## Typescript
+[Obtain keys from type](https://github.com/kimamula/ts-transformer-keys/tree/master)
 ## 
 [dotenv-vault](https://github.com/dotenv-org/dotenv-vault)   
 
