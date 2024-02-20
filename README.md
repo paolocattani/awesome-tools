@@ -19,6 +19,7 @@
 
 ## CI/CD 
 [Buddy Works](https://buddy.works/)   
+[Danger](https://danger.systems/js/)
 
 ## Guides
 [Free tools for dev](https://free-for.dev/#/)   
