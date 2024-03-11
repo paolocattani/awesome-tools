@@ -28,6 +28,10 @@
 ## Tools
 [Choose License](https://choosealicense.com/)
 
+## AI
+[CopilotKit](https://github.com/CopilotKit/CopilotKit)
+[Chesire Cat](https://github.com/cheshire-cat-ai)
+
 ## Interviews
 [Lydia Hallie js questions](https://github.com/lydiahallie/javascript-questions)   
 [Nest.js Tutorials](https://wanago.io/)
